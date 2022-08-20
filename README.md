@@ -5,3 +5,7 @@
 Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel.
 
 Godot is completely free and open-source under the very permissive MIT license. No strings attached, no royalties, nothing. Your game is yours, down to the last line of engine code.
+
+## About the Game
+
+It's a simple game where the main objective is not to be touched by a stone
